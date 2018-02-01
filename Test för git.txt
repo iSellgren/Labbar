@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hej Temmel Fredrik
+=======
+Hej Temmel Adam
+>>>>>>> 98dba6a10a86fdb131cd230f8f21a2db673595f8
